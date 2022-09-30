@@ -19,7 +19,7 @@ Player::~Player()
 {
 	
 }
-
+//‰Šú‰»
 void Player::init()
 {
 	m_pos.x = Game::kScreenWidth / 2 - kSizeX / 2;
